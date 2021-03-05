@@ -7,3 +7,5 @@
 ***2. Best time to sell and buy stocks - Using dynamic thinking i calculated the maximum profit of all combinations when to buy and when to sell***
 
 ***3. Largest sum SubArray using KADANE's Algorithm in C++***
+
+***4. House Robbers : Dynamic approach using arrays and vectors***
