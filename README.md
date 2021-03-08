@@ -1,11 +1,11 @@
 # Leetcode_playground
 
-***SortingAndSearching ***
+***SortingAndSearching***
 
-***Arrays ***
+***Arrays***
 
-***Dynamic Program ***
+***Dynamic Program***
 
-***LinkedList ***
+***LinkedList***
 
-***Strings ***
+***Strings***
