@@ -1,11 +1,17 @@
 # Leetcode_playground
 
-***SortingAndSearching***
+***Solving various problems based on different categories mentioned below:***
 
 ***Arrays***
 
-***Dynamic Program***
+***Strings***
 
 ***LinkedList***
 
-***Strings***
+***Dynamic Programming***
+
+***SortingAndSearching***
+
+
+
+
