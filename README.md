@@ -6,6 +6,8 @@
 
 ***Strings***
 
+***Design***
+
 ***LinkedList***
 
 ***Dynamic Programming***
