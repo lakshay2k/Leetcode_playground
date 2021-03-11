@@ -22,4 +22,6 @@
 
 ***10. Rotate a 2D matric inplace using C++***
 
+***11. 3SUM problem of calculating triplets having given sum using C++***
+
 
