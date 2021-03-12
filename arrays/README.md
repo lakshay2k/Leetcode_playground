@@ -24,4 +24,6 @@
 
 ***11. 3SUM problem of calculating triplets having given sum using C++***
 
+***12. Set Matrix Zeroes using concept of vectors with pairs in C++***
+
 
