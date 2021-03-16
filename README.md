@@ -8,11 +8,11 @@
 
 ***Design***
 
-***LinkedList***
+***Linked List***
 
 ***Dynamic Programming***
 
-***SortingAndSearching***
+***Sorting And Searching***
 
 
 
