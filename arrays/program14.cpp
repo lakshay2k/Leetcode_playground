@@ -5,6 +5,7 @@ public:
         int ans=0;
         int n=s.size();
         unordered_set<char> myset;
+        
         //creating a window initially starting them both with zero
         int l=0,r=0;
         while(l<n&&r<n)
@@ -24,7 +25,6 @@ public:
                 l++;
             }
         }
-        
         return ans;
     }
 };
