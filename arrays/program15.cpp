@@ -37,6 +37,7 @@ public:
             ++high;
         }
     }
+        //extracting a substring that is the palindrome
  res = s.substr(start,maxLength);
         return res;
     
