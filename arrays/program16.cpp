@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool increasingTriplet(vector<int>& nums) {
+
         //if it is not a triplet, return false
         if(nums.size()<3)
         {
