@@ -52,6 +52,7 @@ public:
                 res=new_node;
             }
         }
+        
         // we may face situation having carry at last stages when both list tends to null then carry is added
         if((l1==NULL || l2==NULL) && carry == 1)
         {
