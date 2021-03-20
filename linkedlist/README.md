@@ -1,3 +1,9 @@
 # Linked-List Problems
 
 ***Problems based on linked list are solved and implemented using C++***
+
+***1. How to delete a node in a linked list using C++***
+
+***2. Remove the element at Nth node of linked list using C++***
+
+***3. How to reverse a linked list using C++ - I used three pointer approach***
