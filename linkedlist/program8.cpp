@@ -4,6 +4,7 @@ public:
     ListNode* oddEvenList(ListNode* head) {
         if(head==NULL)
             return head;
+        
         //using two pointer approach - one for odd and other for even
         ListNode* odd = head;
         ListNode* even = head->next;
