@@ -3,6 +3,7 @@ public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
         //Creating node for storing intersection node pointer
         ListNode* ans = NULL;
+
         //Making all the values negative connected by a
        for(ListNode* a = headA;a!=NULL;a=a->next)
        {
