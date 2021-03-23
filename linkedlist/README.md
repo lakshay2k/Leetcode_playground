@@ -12,4 +12,7 @@
 
 ***5. Check a linked list is palindrome or not in C++***
 
+***6. How to detect a cycle in linkedlist using C++***
+
+
 
