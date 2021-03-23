@@ -1,6 +1,7 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
+
         //creating variable for storing minimum index
         int minpos;
         int i,j;
