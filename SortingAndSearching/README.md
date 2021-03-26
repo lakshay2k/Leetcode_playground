@@ -11,3 +11,5 @@
 ***4. Top K frequent elements using C++***
 
 ***5. Finding Kth largest element in vector using C++***
+
+***6. Finding Peak element in vector using C++***
