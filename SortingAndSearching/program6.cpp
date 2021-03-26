@@ -12,6 +12,7 @@ public:
         //if the mid elememt satisfies the conditions in question, then return mid
              if((mid==0|| nums[mid]>nums[mid-1]) && (mid==n-1 ||nums[mid]>nums[mid+1]))
                 return mid;   
+
         //else if element left to mid is greater, go for left part
             else if(mid>0 && nums[mid-1]>nums[mid])
             {
