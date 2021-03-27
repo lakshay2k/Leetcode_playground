@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
+
         //made two functions named findfirst() and findsec()
         int first = findfirst(nums,target);
         int second = findsec(nums,target);
