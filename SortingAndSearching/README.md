@@ -13,3 +13,5 @@
 ***5. Finding Kth largest element in vector using C++***
 
 ***6. Finding Peak element in vector using C++***
+
+***7. Search for a range using C++***
