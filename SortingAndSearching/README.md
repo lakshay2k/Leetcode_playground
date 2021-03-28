@@ -15,3 +15,5 @@
 ***6. Finding Peak element in vector using C++***
 
 ***7. Search for a range using C++***
+
+***8. Merge intervals in vectors using C++***
