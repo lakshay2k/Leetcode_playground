@@ -17,3 +17,5 @@
 ***7. Search for a range using C++***
 
 ***8. Merge intervals in vectors using C++***
+
+***9. Search in rotated sorted array***
