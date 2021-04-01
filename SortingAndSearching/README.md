@@ -18,4 +18,4 @@
 
 ***8. Merge intervals in vectors using C++***
 
-***9. Search in rotated sorted array***
+***9. Search in Rotated Sorted Array using C++***
