@@ -4,6 +4,7 @@ public:
     //finding maximum index or PIVOT element in lamen terms
     int max_index(vector<int> nums)
     {
+// dividing the array into two sorted arrays
         int start = 0, end = nums.size();
         int front=nums[0];
         int mid = (start + end)/2;
