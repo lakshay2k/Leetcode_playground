@@ -9,3 +9,5 @@
 ***3. Largest sum SubArray using KADANE's Algorithm in C++***
 
 ***4. House Robbers : Dynamic approach using arrays and vectors***
+
+***5. Jump Game : Dynamic approach implemented in C++***
