@@ -1,5 +1,6 @@
 class Solution {
 public:
+
     bool canJump(vector<int>& nums) {
         
         //last index is out target to reach
