@@ -1,5 +1,5 @@
 class Solution {
-public:
+public: 
     int uniquePaths(int m, int n) {
         
         //rows=m , col = n
