@@ -11,3 +11,6 @@
 ***4. House Robbers : Dynamic approach using arrays and vectors***
 
 ***5. Jump Game : Dynamic approach implemented in C++***
+
+***6. Unique Paths : Dynamic Approach using C++***
+
