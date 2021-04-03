@@ -1,5 +1,6 @@
 class Solution {
 public: 
+
     int uniquePaths(int m, int n) {
         
         //rows=m , col = n
@@ -21,5 +22,6 @@ public:
         
         //the last element gives the total chances to reach it
         return myarr[m-1][n-1];
+
     }
 };
