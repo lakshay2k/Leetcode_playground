@@ -14,3 +14,6 @@
 
 ***6. Unique Paths : Dynamic Approach using C++***
 
+***7. Coin Change : Dynamic Approach using C++***
+
+
