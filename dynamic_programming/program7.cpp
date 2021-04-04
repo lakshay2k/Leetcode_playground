@@ -24,6 +24,7 @@ public:
                 }
             }
         }
+
         return subresults[amount] != INT_MAX ? subresults[amount] : -1;
     }
 };
