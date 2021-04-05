@@ -1,5 +1,6 @@
 class Solution {
 public:
+
     int lengthOfLIS(vector<int>& nums) {
         
         //creating a vector of subresults so store them
