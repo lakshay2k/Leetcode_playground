@@ -16,4 +16,8 @@
 
 ***7. Coin Change : Dynamic Approach using C++***
 
+***8. Longest Increasing Subsequence : Dynamic approach in C++***
+
+
+
 
