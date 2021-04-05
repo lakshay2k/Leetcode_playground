@@ -1,5 +1,6 @@
 class Solution {
 public:
+
     vector<int> productExceptSelf(vector<int>& nums) {
         
         //approach towards problem is:
@@ -25,6 +26,7 @@ public:
             prod[i] = prod[i]*nums[i+1]*R;
             R = R*nums[i+1];  //dry run and understand the concept . please its must.
         }
+
         return prod;
     }
 };
