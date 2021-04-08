@@ -1,5 +1,6 @@
 class Solution {
 public:
+
     int maxArea(vector<int>& height) {
         
         //storing maximum area of max size of container in max variable
@@ -8,6 +9,7 @@ public:
         
         while(i<j)
         {
+
             //area is calculated by diff b/w indexes * min of first and second pointer
             int area = (j-i)*min(height[i],height[j]);
             if(max<area)
@@ -16,7 +18,9 @@ public:
                 i++;
             else
                 j--;
+
         }
+
         return max;
     }
 };
