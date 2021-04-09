@@ -1,5 +1,6 @@
 class Solution {
 public:
+
     void gameOfLife(vector<vector<int>>& board) {
         
         int r = board.size(),c = board[0].size();
@@ -41,6 +42,7 @@ public:
                 }
             }
         }
+
         //program will check for board for assigning values of res into the board.
         board = res;
     }
