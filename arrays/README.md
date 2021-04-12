@@ -47,5 +47,8 @@
 
 ***22. First Missing Positive Number in C++***
 
+***23. Longest Consecutive sequence in C++***
+
+
 
 
