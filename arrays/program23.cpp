@@ -1,5 +1,6 @@
 class Solution {
 public:
+
     int longestConsecutive(vector<int>& nums) {
         
         //making set to remove duplicate numbers
@@ -31,6 +32,7 @@ public:
                 final_max = max(final_max,curr_max);
             }
         }
+
         return final_max;
     }
 };
