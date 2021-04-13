@@ -1,5 +1,6 @@
 class Solution {
 public:
+
     int findDuplicate(vector<int>& nums) {
         
         //using the tortoise and hare approach
@@ -14,11 +15,13 @@ public:
         //as we have found the first intersection and now its time to slow them down
         //now the intersection will be the entrance point or duplicate number
         tortoise = nums[0];
+
         while(tortoise != hare)
         {
             tortoise = nums[tortoise];
             hare = nums[hare];
         }
+
         return hare;
     }
 };
