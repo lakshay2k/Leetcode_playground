@@ -18,6 +18,9 @@
 
 ***8. Longest Increasing Subsequence : Dynamic approach in C++***
 
+***9. Longest increasing Path in a matrix using DP approach in C++***
+
+
 
 
 
