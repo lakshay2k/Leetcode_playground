@@ -1,10 +1,12 @@
 class Solution {
 public:
+
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
         
         //making result vector having all maxima's
         vector<int> result;
         deque<int> mydq;
+
         int i;
         if(nums.size() < k)
             return result;
@@ -16,6 +18,7 @@ public:
             //Note here front and back is same when i=0 and i=1 but for i=2 we compare back and pop back only so dont get confused with names
             while(!mydq.empty() && nums[i] > nums[mydq.back()])
                 mydq.pop_back();
+
             mydq.push_back(i);
             //after executing full while loop at first posn of queue we get the maxn element index
         }
