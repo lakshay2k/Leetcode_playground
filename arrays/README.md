@@ -53,6 +53,7 @@
 
 ***25. Sliding Window MAximum Hard problem using C++***
 
+***26. Majority Element in C++ using Moore's algorithm***
 
 
 
