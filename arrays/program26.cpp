@@ -11,6 +11,7 @@ public:
             //dry run for any value and look
             if(count ==0)
                 element = num;
+
             //increamenting count of majority element
             if(element == num)
                 count++;
