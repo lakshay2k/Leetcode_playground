@@ -20,6 +20,10 @@
 
 ***9. Intersection of Two linkedlist using C++***
 
+***10. Merge K sorted array in C++ using intervals approach***
+
+
+
 
 
 
