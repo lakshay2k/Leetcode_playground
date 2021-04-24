@@ -12,6 +12,7 @@ public:
         //for ex 2-false, 4-true, 6-true , 8-true  n=10
         //       3-false,         already  9-true 
         // if n is dividible by p, n=p*q, p<sqrt(p)
+
         for(int i = 2;i*i <= n;i++)
         {
             if(prime_vec[i] == false)
