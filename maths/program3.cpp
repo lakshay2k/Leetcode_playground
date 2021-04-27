@@ -1,3 +1,5 @@
+//question link:  https://leetcode.com/explore/featured/card/top-interview-questions-easy/102/math/745/
+
 class Solution {
 public:
     bool isPowerOfThree(int n) {
