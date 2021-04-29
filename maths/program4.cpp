@@ -1,4 +1,4 @@
-	class Solution {
+class Solution {
 public:
     int romanToInt(string s) {
         
@@ -17,10 +17,11 @@ public:
         roman.insert({'D',500});
         roman.insert({'M',1000});
         
-        //we use analogy that : 
-        //1. number before greater no. is smaller than greater number then we subtract that from greater no.
-        //2. while if number is smaller after the greatest number then we add the smallest no. to greatest no.
-        
+        /*we use analogy that : 
+        1. number before greater no. is smaller than greater number then we subtract that from greater no.
+        2. while if number is smaller after the greatest number then we add the smallest no. to greatest no.
+        */
+
         for(int i = 0;i < len ;)
         {
             //1.
