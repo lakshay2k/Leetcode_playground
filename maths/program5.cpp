@@ -12,6 +12,7 @@ public:
         //approach is to pass 1 in while and check conditions inside and return true and false accordingly
         while(1)
         {
+
             //everytime we have to make sum 0 to count for next number that comes
             sum=0;
             
@@ -22,6 +23,7 @@ public:
             t1 = n%10;
             sum = sum + t1*t1;
             n = n/10;
+
             }
             
          //now for every intermediate sum we check is it 1 (return true) or if sum is already present in set(return false)
@@ -34,6 +36,7 @@ public:
             myset.insert(sum);
             n=sum;
         }
+
         return false;
     }
 };
