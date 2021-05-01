@@ -55,5 +55,6 @@
 
 ***26. Majority Element in C++ using Moore's algorithm***
 
+***27. Move Zeroes - optimal solution in C++***
 
 
