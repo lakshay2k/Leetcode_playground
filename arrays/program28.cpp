@@ -1,6 +1,5 @@
 class Solution {
 public:
-
     vector<int> runningSum(vector<int>& nums) {
         
         //to reduce space complexity, i performed inplace operations
