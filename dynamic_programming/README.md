@@ -20,6 +20,10 @@
 
 ***9. Longest increasing Path in a matrix using DP approach in C++***
 
+***10. Non decreasing array using dynamic_approach in C++***
+
+
+
 
 
 
