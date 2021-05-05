@@ -8,6 +8,7 @@ bool checkPossibility(vector<int>& nums) {
     
     for(int i = 1; i < nums.size() ; i++)
     {
+
         if(nums[i] < nums[i-1])
         {
             //if num at i-2 is less than i we decrease i-1 element down to current(ith) element
@@ -22,6 +23,7 @@ bool checkPossibility(vector<int>& nums) {
                 nums[i] = nums[i-1];
                 count++;
             }
+
         }
     }
     
