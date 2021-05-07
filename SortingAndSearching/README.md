@@ -19,3 +19,9 @@
 ***8. Merge intervals in vectors using C++***
 
 ***9. Search in Rotated Sorted Array using C++***
+
+***10. Check if N and its doubles exits in C++***
+
+
+
+
