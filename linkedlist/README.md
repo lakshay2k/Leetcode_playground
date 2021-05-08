@@ -22,6 +22,8 @@
 
 ***10. Merge K sorted array in C++ using intervals approach***
 
+***11. Convert sorted list to Binary search tree in C++***
+
 
 
 
