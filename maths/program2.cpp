@@ -11,12 +11,16 @@ public:
         //we mark all factors of a (number upto n) as marked and the left ones comes out to be primeNO.
         //for ex 2-false, 4-true, 6-true , 8-true  n=10
         //       3-false,         already  9-true 
-        // if n is dividible by p, n=p*q, p<sqrt(p)
+        //       4 - already    8 - already
+        //       5 - false ,  10- true
+        // 6- already 7 false , 8 and 9 are already   ... at last false are primes i.e 2,3,5,7
+        // if n is dividible by p, n=p*q, p<sqrt(n)
 
         for(int i = 2;i*i <= n;i++)
         {
             if(prime_vec[i] == false)
             {
+                //we start checking from i*i because factors before that are already covered, like for 3 3*2(already) direct go for 3*3
                 for(int j = i*i; j<=n; j=j+i)
                     prime_vec[j]=true;
             }
