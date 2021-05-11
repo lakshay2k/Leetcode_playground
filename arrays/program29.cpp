@@ -1,6 +1,8 @@
 class Solution {
 public:
+
     bool validMountainArray(vector<int>& arr) {
+
         int i,j,len=0,count=0,count1=0,count3=0;
         for(i=0;i<arr.size();i++)
         {
