@@ -1,21 +1,14 @@
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
-        int k=nums.size();
-        int num=count(nums.begin(), nums.end(), 0); //counting number of zeros in array
-        int j=0;
-        for(int i=0;i<k;i++){
+        //moving the non-zero elements in front as we encounter then
+        //j is used for keeping relative order of indexes -> 0 1 2 ..
+        //using nums[i]!=0 we select the non zero elements
+        int k=nums.size(),j=0,i;
+        for(i=0;i<k;i++){
             if(nums[i]!=0){
-                nums[j]=nums[i]; //Putting non zero element in starting of array
-                j++;
+                swap(nums[j++],nums[i]);
             }     
         }
-       //Putting the total number of zeros in end of the array
-        while(num!=0){
-        nums[k-1]=0;
-            k--;
-            num--;
-        }
-        
     }
 };
