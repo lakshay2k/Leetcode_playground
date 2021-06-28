@@ -15,6 +15,7 @@ public:
                 {
                     nums[j-1]=nums[j];
                 }
+                
                 len--; // for updating len of array after duplicate removal
                 i=i-1; // for considering the number after duplicate to check if more duplicate of that no. exists or not.
             }
