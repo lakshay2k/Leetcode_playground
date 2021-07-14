@@ -22,6 +22,8 @@
 
 ***10. Non decreasing array using dynamic_approach in C++***
 
+***11. Divisor Game in Dp***
+
 
 
 
