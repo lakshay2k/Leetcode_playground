@@ -24,7 +24,7 @@
 
 ***11. Divisor Game in Dp***
 
-
+***12. Pascal's Triangle in C++ using dynamic programming approach
 
 
 
