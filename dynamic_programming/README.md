@@ -28,6 +28,9 @@
 
 ***13. Nth Fibonacci Series in C++ using DP approach***
 
+***14. Min Cost Climbing Stairs in C++ using DP approach***
+
+
 
 
 
