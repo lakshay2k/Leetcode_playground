@@ -30,6 +30,8 @@
 
 ***14. Min Cost Climbing Stairs in C++ using DP approach***
 
+***15. Pascal's Traingle || in C++ using DP approach***
+
 
 
 
