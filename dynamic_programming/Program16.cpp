@@ -1,6 +1,7 @@
 class Solution {
 public:
-    int getMaximumGenerated(int n) {
+    int getMaximumGenerated(int n) {3
+        
         //if arraysize is 0 then return 0 as max elem
         if(n==0)
             return 0;
