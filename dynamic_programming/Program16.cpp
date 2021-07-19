@@ -1,3 +1,6 @@
+// Question link:
+// https://leetcode.com/problems/get-maximum-in-generated-array/
+
 class Solution {
 public:
     int getMaximumGenerated(int n) {3
