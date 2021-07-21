@@ -1,13 +1,16 @@
 #include <iostream>
 using namespace std;
 
+//recursive function
 void func(int n,int j)
 {
     if(n<=0)
-    return; 
+    return;
+    //printing n rows everytime n decreases
     if(j<n)
     {
         cout<<"*";
+        //print n stars
         func(n,j+1);
     }
     else
