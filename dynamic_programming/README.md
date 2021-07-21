@@ -22,6 +22,55 @@
 
 ***10. Non decreasing array using dynamic_approach in C++***
 
+***11. Divisor Game in Dp***
+
+***12. Pascal's Triangle in C++ using dynamic programming approach***
+
+***13. Nth Fibonacci Series in C++ using DP approach***
+
+***14. Min Cost Climbing Stairs in C++ using DP approach***
+
+***15. Pascal's Traingle || in C++ using DP approach***
+
+***16. Get maximum in generated array DP problem in C++***
+
+***17. Counting bits in C++ using DP approach***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
