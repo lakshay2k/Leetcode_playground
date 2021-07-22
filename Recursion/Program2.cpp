@@ -1,3 +1,5 @@
+//Problem statement is to print the Triangle/ pyramid of N rows 
+
 #include <iostream>
 using namespace std;
 
