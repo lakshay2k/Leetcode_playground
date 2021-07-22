@@ -34,7 +34,7 @@ void printpattern(int n, int j)
 
 int main()
 {
-    //cout<<"Hello World";
+    //initialising the function with number of rows and j as 0 to trackback the number of rows to print stars
     printpattern(5,0);
 
     return 0;
