@@ -1,3 +1,7 @@
+//Number of ways a group of people having N members can go to a party
+//with the constraint that one person can go alone or in pair
+
+
 #include <iostream>
 using namespace std;
 
@@ -6,6 +10,7 @@ void recur(int *arr, int i, int n, string osf)
     //base case is when the array is traversed means the index i is equal to n
     if(i==n)
     {
+        //print the subsets back while returning
         cout<<"["<<osf<<"]\n";
         return;
     }
