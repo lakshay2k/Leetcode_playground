@@ -16,7 +16,7 @@ void recur(int *arr, int i, int n, string osf)
     }
     
     //we will be storing the subsets in string osf
-    //For a number in set, there are two choices to get included or not get included.
+    //For a number in set, there are two choices to *get included or *not get included.
     //We can say for first number, he has chances to get included of not included in the rest of subsets to be formed
     //If we get for the n-1 elements then we can add the first similarly we can pass i+1 to recusrion to bring the other
     
