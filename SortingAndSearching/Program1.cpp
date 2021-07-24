@@ -1,7 +1,10 @@
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        int i,j,len;
+        //making two pointers , i will be pointing to end of first array and j will insert the elements of arr2 at arr1 end
+        int i,j;
+        
+        //i -> m to m+n  ;; j 0 -> n 
         for(i=m,j=0;i<m+n,j<n;i++,j++)
             {
                 nums1[i]=nums2[j];
