@@ -1,3 +1,7 @@
+// Merge two Sorted array (first having m elements and second having n elements
+//return the sorted array after merging
+
+
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
