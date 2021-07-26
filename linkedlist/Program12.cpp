@@ -6,8 +6,11 @@ class Solution
     public:
     void display(Node *head)
     {
+        //when the linkedlist is empty return
       if(head==NULL)
       return;
+        
+      //keep iterating till the last(points to null) and print the data with a space
       while(head!=NULL)
       {
           cout<<head->data<<" ";
