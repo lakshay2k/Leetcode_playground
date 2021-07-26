@@ -1,3 +1,5 @@
+//Given a value of N print the Increasing and Decreasing Pattern till 1 from N
+
 #include<bits/stdc++.h>
 using namespace std;
 
