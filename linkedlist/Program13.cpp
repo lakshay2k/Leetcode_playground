@@ -1,3 +1,7 @@
+// Question is to count the number of nodes in a linkedlist
+// Question link : https://practice.geeksforgeeks.org/problems/count-nodes-of-linked-list/1
+
+
 class Solution
 {
     public:
