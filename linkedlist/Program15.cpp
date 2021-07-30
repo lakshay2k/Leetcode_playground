@@ -4,12 +4,16 @@
 int getMiddle(Node *head)
 {
    // Your code here
-   Node* slow=head;
-   Node* fast = head;
+   
+   //Using the tortoise-hare approach
+   Node* slow=head; //tortoise
+   Node* fast = head;  //hare
    while(fast && fast->next)
    {
        slow = slow->next;
        fast = fast->next->next;
    }
+   
+   //return the data pointed by slow or hare
    return slow->data;
 }
