@@ -9,12 +9,15 @@ public:
     vector<int> sieveOfEratosthenes(int N)
     {
         // Write Your Code here
+        // will make every number true and after processing true ones left will be prime numbers
         vector<bool> check(N+1,true);
         vector<int> prime;
         
+        //if sqaure of number is withing the range then we will move forward
         for(int p=2;p*p<=N;p++)
         {
-            if(check[p])
+            
+            if(check[p]) //will be truw as initially all are true
             {
                 for(int i=p*p;i<=N;i=i+p)
                 {
