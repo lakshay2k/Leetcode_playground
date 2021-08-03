@@ -1,3 +1,7 @@
+// Write a Program that gives the sum of prime numbers upto n
+// Question link: https://practice.geeksforgeeks.org/problems/sum-of-all-prime-numbers-between-1-and-n4404/1
+
+
 class Solution{
 	public:
    	long long int prime_Sum(int n){
