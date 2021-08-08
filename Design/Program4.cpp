@@ -1,3 +1,17 @@
+// Write the program to print the butterfly pattern using stars
+/*
+Pattern is: 
+*             * 
+* *         * * 
+* * *     * * * 
+* * * * * * * * 
+* * * * * * * * 
+* * *     * * * 
+* *         * * 
+*             *
+
+*/
+
 #include <iostream>
 using namespace std;
 
