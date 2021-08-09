@@ -1,4 +1,15 @@
-//# palindromic pattern of numbers
+//Rhombus Pattern in C++ 
+/*
+Pattern is:
+
+        * * * * * 
+      * * * * * 
+    * * * * * 
+  * * * * * 
+* * * * *
+
+*/
+
 
 #include <iostream>
 
