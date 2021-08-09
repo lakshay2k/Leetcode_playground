@@ -6,4 +6,6 @@
 
 ***3. Flatten nestedList Iterator using C++***
 
+***4. Butterfly pattern in C++***
+
 
