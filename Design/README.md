@@ -8,4 +8,6 @@
 
 ***4. Butterfly pattern in C++***
 
+***5. Rhombus Pattern***
+
 
