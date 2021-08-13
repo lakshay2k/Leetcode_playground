@@ -10,4 +10,7 @@
 
 ***5. Rhombus Pattern***
 
+***6. Palindromic Pattern of Numbers in C++***
+
+
 
