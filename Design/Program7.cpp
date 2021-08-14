@@ -23,10 +23,12 @@ int main()
 {
     //cout<<"Hello World";
     
+       //we will divide the pattern in two halves first - upperhalf and lowerhalf
     int row = 5;
+       
+       //upper half, traversal is from 1-> row
     for(int i=1;i<=row;i++)
     {
-        int k=i;
         for(int j=1;j<=row;j++)
         {
             if(j<=row-i)
@@ -42,9 +44,9 @@ int main()
         cout<<endl;
     }
     
+       //lower half, only traversal changes from row -> 1
     for(int i=row;i>=1;i--)
     {
-        int k=i;
         for(int j=1;j<=row;j++)
         {
             if(j<=row-i)
