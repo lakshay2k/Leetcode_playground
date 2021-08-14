@@ -12,5 +12,5 @@
 
 ***6. Palindromic Pattern of Numbers in C++***
 
-***7. Star Pattern ***
+***7. Star Pattern***
 
