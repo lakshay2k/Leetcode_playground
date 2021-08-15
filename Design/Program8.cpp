@@ -11,7 +11,6 @@ int main()
     12345
     */
     
-    
     //number of rows and columns is 5
     int rows = 5;
     for(int i=1;i<=5;i++)
