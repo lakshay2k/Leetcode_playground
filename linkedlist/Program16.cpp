@@ -1,3 +1,7 @@
+// performing push and pop operations in stack using arrays
+// Question link: https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1
+
+
 void MyStack :: push(int x)
 {
     // Your Code
