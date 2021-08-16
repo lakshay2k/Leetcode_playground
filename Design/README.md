@@ -14,3 +14,7 @@
 
 ***7. Star Pattern***
 
+***8. Pattern of Numbers | in C++***
+
+
+
