@@ -16,5 +16,8 @@
 
 ***8. Pattern of Numbers | in C++***
 
+***9. Pattern of Numbers || in C++***
+
+
 
 
