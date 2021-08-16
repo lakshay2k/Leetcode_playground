@@ -5,6 +5,7 @@
 void MyStack :: push(int x)
 {
     // Your Code
+    //inititally the top points to -1 so we will first increament it evertime and then store the element at that index
     top++;
     arr[top] = x;
 }
@@ -13,10 +14,12 @@ void MyStack :: push(int x)
 int MyStack :: pop()
 {
     // Your Code 
+    // for removing elements first we check if there are any elements present or not in the stack//array
     if(top==-1)
     return -1;
     else
     {
+        //simply return the top element and decreament the top count
         return arr[top--];
     }
 }
