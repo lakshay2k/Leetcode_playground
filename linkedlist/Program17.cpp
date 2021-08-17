@@ -1,9 +1,10 @@
 // Question link: https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1
 
-
+//Initially top1 is pointing to -1 and top2 is pointing to size
 //Function to push an integer into the stack1.
 void twoStacks :: push1(int x)
 {
+    //increament the top and add the element
     top1++;
         arr[top1]=x;
 }
@@ -11,6 +12,7 @@ void twoStacks :: push1(int x)
 //Function to push an integer into the stack2.
 void twoStacks ::push2(int x)
 {
+    //for stack2, decreament the top and add the element
     top2--;
         arr[top2]=x;
 }
