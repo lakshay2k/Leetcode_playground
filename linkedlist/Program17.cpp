@@ -1,3 +1,6 @@
+// Question link: https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1
+
+
 //Function to push an integer into the stack1.
 void twoStacks :: push1(int x)
 {
