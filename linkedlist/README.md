@@ -34,6 +34,8 @@
 
 ***16. Implement Stack in an array***
 
+***17. Implement two Stack in an array***
+
 
 
 
