@@ -1,3 +1,8 @@
+// Question link added: https://practice.geeksforgeeks.org/problems/find-length-of-loop/1
+
+
+
+
 int countNodesinLoop(struct Node *head)
 {
     // Code here
