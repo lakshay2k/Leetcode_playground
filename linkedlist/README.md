@@ -38,6 +38,9 @@
 
 ***18. Length of Cycle in a Linkedlist***
 
+***19. Remove every Kth Node in LinkedList***
+
+
 
 
 
