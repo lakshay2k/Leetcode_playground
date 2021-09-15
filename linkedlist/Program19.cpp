@@ -7,14 +7,16 @@ Node* deleteK(Node *head,int K)
   return NULL;
   else
   {
-      
+      //iterate over the whole linkedlist
       Node *temp = head;
-      while(temp!=NULL)
+      while(temp!=NULL)  // till we don't encounter NULL
       {
           int n = K;
+        //iterating till K nodes
           while(n!=1 && temp!=NULL)
           {
               n = n-1;
+            //as k nodes completes, we simplte points the next pointers to its precedor and free that node
               if(n==1)
               {
                   Node *todelete = temp->next;
@@ -24,6 +26,7 @@ Node* deleteK(Node *head,int K)
                   free(todelete);
                   }
               }
+            //for keep moving forward
               temp = temp->next;
           }
       }
