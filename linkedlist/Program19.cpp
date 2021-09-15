@@ -1,3 +1,5 @@
+// Question link: https://practice.geeksforgeeks.org/problems/remove-every-kth-node/1
+
 Node* deleteK(Node *head,int K)
 {
   //Your code here
