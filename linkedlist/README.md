@@ -40,6 +40,7 @@
 
 ***19. Remove every Kth Node in LinkedList***
 
+***20. Delete N nodes after M nodes of a LinkedList***
 
 
 
