@@ -20,8 +20,10 @@ class Solution{
         {
             return 0;
         }
+        //calculate the height of left and right subtree
         int leftheight = height(node->left);
         int rightheight = height(node->right);
+        //add 1 to the max heights returned from left and right subtree.
         return max(leftheight,rightheight) + 1;
     }
 };
