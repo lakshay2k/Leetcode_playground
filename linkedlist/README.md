@@ -32,7 +32,15 @@
 
 ***15. Middle element of linkedlist***
 
+***16. Implement Stack in an array***
 
+***17. Implement two Stack in an array***
+
+***18. Length of Cycle in a Linkedlist***
+
+***19. Remove every Kth Node in LinkedList***
+
+***20. Delete N nodes after M nodes of a LinkedList***
 
 
 
