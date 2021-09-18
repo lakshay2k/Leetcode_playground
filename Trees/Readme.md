@@ -1,3 +1,3 @@
 # Trees
 
-***Height of a Binary Tree.***
+***1. Height of a Binary Tree.***
