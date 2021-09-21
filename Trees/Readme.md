@@ -6,4 +6,6 @@
 
 ***3. InOrder Traversal of Binary Tree***
 
+***4. PreOrder Traversal of Binary Tree***
+
 
