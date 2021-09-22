@@ -1,3 +1,6 @@
+// Question link: https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1
+
+
 class Solution
 {
     public:
