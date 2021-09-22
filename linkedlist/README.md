@@ -42,7 +42,7 @@
 
 ***20. Delete N nodes after M nodes of a LinkedList***
 
-
+***21. Delete without head pointer of a linkedlist***
 
 
 
