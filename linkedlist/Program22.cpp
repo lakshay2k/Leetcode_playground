@@ -7,12 +7,15 @@ void reorderList(Node* head) {
     Node* temp=NULL;
     Node* end= NULL;
     Node* right = head;
+    
+    //traversing till last pointer
     while(right->next!=NULL)
     {
         end = right;
         right=right->next;
     }
     
+    //iterating and connecting the left link to right one by one
     while(left<right)
     {
         temp = left->next;
