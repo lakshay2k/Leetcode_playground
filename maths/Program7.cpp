@@ -1,3 +1,6 @@
+// Question Link: https://practice.geeksforgeeks.org/problems/print-the-pattern-set-1/1#
+
+
 void printPat(int n)
 {
 //Your code here
