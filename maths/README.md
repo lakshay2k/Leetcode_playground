@@ -12,3 +12,4 @@
 
 ***6. Find numbers with even number of digits in C++***
 
+***7. Print Pattern in C++***
