@@ -1,3 +1,6 @@
+// Question link: https://practice.geeksforgeeks.org/problems/series-ap5310/1
+
+
 class Solution {
   public:
     int nthTermOfAP(int A1, int A2, int N) {
