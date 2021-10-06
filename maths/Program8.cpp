@@ -3,6 +3,7 @@
 
 class Solution {
   public:
+  
     int nthTermOfAP(int A1, int A2, int N) {
         // code here
       //calculating the difference of terms (d)
