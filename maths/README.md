@@ -13,3 +13,5 @@
 ***6. Find numbers with even number of digits in C++***
 
 ***7. Print Pattern in C++***
+
+***8. Nth Term of A.P in C++***
