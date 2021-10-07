@@ -4,6 +4,7 @@
 
 class Solution{
 	public:
+	
    	int Nth_term(int a, int r, int n){
    	    // Code here
    	    int x=1;
