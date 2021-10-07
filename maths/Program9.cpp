@@ -7,6 +7,9 @@ class Solution{
 	
    	int Nth_term(int a, int r, int n){
    	    // Code here
+		
+		//Formula is An = A*r^n-1
+		
    	    int x=1;
    	    for(int i=1;i<n;i++)
    	    {
