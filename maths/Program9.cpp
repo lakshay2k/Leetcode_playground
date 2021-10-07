@@ -1,3 +1,7 @@
+// Question link: https://practice.geeksforgeeks.org/problems/series-gp4646/1
+
+
+
 class Solution{
 	public:
    	int Nth_term(int a, int r, int n){
