@@ -6,9 +6,13 @@ class Solution {
   
     int closestNumber(int N , int M) {
         
+      //calculating quotient for finding the roots
         int quotient = N/M;
+      //root1 can be the multiple of M
         int root1 = quotient*M;
+      
         int root2;
+      //calculating for root2 only when numbers are positive
         if(N*M > 0)
         root2 = M*(quotient + 1);
         else
