@@ -3,6 +3,7 @@
 
 class Solution {
   public:
+  
     int closestNumber(int N , int M) {
         
         int quotient = N/M;
