@@ -1,4 +1,4 @@
-/ Question Link: https://practice.geeksforgeeks.org/problems/armstrong-numbers2727/1
+// Question Link: https://practice.geeksforgeeks.org/problems/armstrong-numbers2727/1
 
 
 
