@@ -1,7 +1,6 @@
 // Question Link: https://practice.geeksforgeeks.org/problems/armstrong-numbers2727/1
 
 
-
 class Solution {
   public:
     string armstrongNumber(int n){
