@@ -1,9 +1,9 @@
 // Question link: https://practice.geeksforgeeks.org/problems/sum-of-digit-is-pallindrome-or-not2751/1
 
 
-
 class Solution {
   public:
+  
     int isDigitSumPalindrome(int N) {
         // code here
         int sum=0,sum2=0;
