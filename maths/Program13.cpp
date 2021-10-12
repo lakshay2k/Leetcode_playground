@@ -1,3 +1,7 @@
+// Question link : https://practice.geeksforgeeks.org/problems/perfect-numbers3207/1
+
+
+
 class Solution {
   public:
     int isPerfectNumber(long long N) {
