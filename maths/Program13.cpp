@@ -4,7 +4,6 @@
 
 class Solution {
   public:
-  
     int isPerfectNumber(long long N) {
       
       //Finding the factors and adding up all the factors
