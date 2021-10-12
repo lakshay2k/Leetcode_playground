@@ -4,8 +4,10 @@
 
 class Solution {
   public:
+  
     int isPerfectNumber(long long N) {
-        // code here
+      
+      //Finding the factors and adding up all the factors
         long long sum=1;
         for(long long i=1;i<sqrt(N);i++)
         {
@@ -18,6 +20,7 @@ class Solution {
             
             }
         }
+      //if sum is equal to N then , return 1 otherwise 0;
         if(sum == N)
         return 1;
         return 0;
