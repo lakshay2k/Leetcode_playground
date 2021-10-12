@@ -22,3 +22,4 @@
 
 ***11. Armstrong Number in C++***
 
+***12. Sum of digits is Palindromic or not***
