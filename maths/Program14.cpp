@@ -1,10 +1,10 @@
 // https://practice.geeksforgeeks.org/problems/sieve-of-eratosthenes5242/1
 
 
-
 class Solution
 {
 public:
+    
     vector<int> sieveOfEratosthenes(int N)
     {
         // Write Your Code here
