@@ -7,7 +7,7 @@ public:
     
     vector<int> sieveOfEratosthenes(int N)
     {
-        // Write Your Code here
+        
         vector<bool> check(N+1,true);
         vector<int> prime;
         
