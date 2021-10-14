@@ -1,4 +1,4 @@
-# Math based problems
+# Math based problems: Sieve of Eratosthenes in C++
 
 ***1. FizzBuzz in C++***
 
