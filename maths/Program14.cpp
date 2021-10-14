@@ -6,8 +6,7 @@ class Solution
 public:
     
     vector<int> sieveOfEratosthenes(int N)
-    {
-        
+    {        
         vector<bool> check(N+1,true);
         vector<int> prime;
         
