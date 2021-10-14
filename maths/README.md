@@ -25,3 +25,5 @@
 ***12. Sum of digits is Palindromic or not***
 
 ***13. Perfect Numbers in C++***
+
+***14. Sieve of Eratosthenes in C++***
