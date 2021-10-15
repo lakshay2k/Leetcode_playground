@@ -3,6 +3,8 @@
 
 class Solution{
 	
+	//global variables
+	
 	public:
    	long long int prime_Sum(int n){
    	    long long int sum = 0;
