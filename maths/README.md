@@ -27,3 +27,6 @@
 ***13. Perfect Numbers in C++***
 
 ***14. Sieve of Eratosthenes in C++***
+
+***15. Sum of all Prime Numbers in C++***
+
