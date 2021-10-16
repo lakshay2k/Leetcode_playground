@@ -1,7 +1,6 @@
 class Solution
 {
 	public:
-	
 		long long int reverse_digit(long long int n)
 		{
 		    // Code here
