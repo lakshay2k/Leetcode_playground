@@ -6,7 +6,7 @@ class Solution
 	public:
 		long long int reverse_digit(long long int n)
 		{
-		    // Code here
+		    // declaring variables of same return type
 		    long long int rem,temp,sum=0;
 		    temp=n;
 		    while(temp)
