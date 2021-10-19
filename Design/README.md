@@ -19,4 +19,3 @@
 ***9. Pattern of Numbers || in C++***
 
 
-
