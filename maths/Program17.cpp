@@ -5,7 +5,7 @@ class Solution{
 public:
     
     int kthDigit(int A,int B,int K){
-        // code here
+        // declaring long int to store the large number after power operation
         long long int num = pow(A,B);
         //cout<<num<<endl;
         int rem=0;
