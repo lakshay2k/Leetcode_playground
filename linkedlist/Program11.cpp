@@ -1,6 +1,5 @@
 class Solution {
 public:
-
     TreeNode* sortedListToBST(ListNode* head) {
         
         //if linkedlist is empty return null
