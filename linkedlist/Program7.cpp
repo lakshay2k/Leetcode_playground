@@ -1,5 +1,6 @@
 class Solution {
 public:
+    
     //This the function to reverse a linked list
     ListNode* reverseList(ListNode* head) {
         // i have used a three pointer approach in it
