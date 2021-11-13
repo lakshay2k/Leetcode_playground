@@ -1,5 +1,6 @@
 class Solution {
 public:
+    
     vector<string> fizzBuzz(int n) {
 
         vector<string> res;
