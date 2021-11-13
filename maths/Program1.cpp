@@ -3,6 +3,7 @@ public:
     vector<string> fizzBuzz(int n) {
 
         vector<string> res;
+        
 //remeber to check for combined condition first and then the individual conditions
         for(int i=1;i<=n;i++)
         {
