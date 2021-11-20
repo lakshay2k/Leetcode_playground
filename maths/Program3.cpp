@@ -15,3 +15,4 @@ public:
         return n == 1;
     }
 };
+
