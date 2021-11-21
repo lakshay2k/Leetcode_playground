@@ -3,6 +3,7 @@ public:
     
     void merge(vector<ListNode*>& lists, int index1, int index2)
     {
+        
         //making new nodes res that combines two linkedlist l1 and l2
         ListNode* res = new ListNode(0);
         
