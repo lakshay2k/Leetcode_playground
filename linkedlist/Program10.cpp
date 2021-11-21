@@ -56,6 +56,7 @@ public:
         int interval = 1;
         int len = lists.size();
         
+        
         //dry run to know and understand the link of concpet of merge nodes
         while(interval < len)
         {
