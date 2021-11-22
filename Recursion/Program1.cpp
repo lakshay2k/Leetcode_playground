@@ -1,5 +1,6 @@
 //Given the N rows, print the Pyramid having 5 stars in first row to 1 start in last row 
 // Pattern is as follows: 
+
 /*
 *****
 ****
