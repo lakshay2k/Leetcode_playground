@@ -17,6 +17,7 @@ void func(int n,int j)
 {
     if(n<=0)
     return;
+    
     //printing n rows everytime n decreases
     if(j<n)
     {
