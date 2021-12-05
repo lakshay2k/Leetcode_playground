@@ -4,7 +4,6 @@
 
 class Solution {
 public:
-    
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
         //making two pointers , i will be pointing to end of first array and j will insert the elements of arr2 at arr1 end
         int i,j;
